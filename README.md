@@ -1,3 +1,2 @@
 # Phantom-Hwid-Spoofer
-Password to zip = PHANTOM
-Password to zip = PHANTOM
+PHANTOM TO ZIP FILE = PHANTOM
